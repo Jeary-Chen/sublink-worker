@@ -13,10 +13,10 @@
   <br>
 
 <p style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://deploy.workers.cloudflare.com/?url=https://github.com/7Sageer/sublink-worker">
+  <a href="https://deploy.workers.cloudflare.com/?url=https://github.com/Jeary-Chen/sublink-worker">
     <img src="https://deploy.workers.cloudflare.com/button" alt="部署到 Cloudflare Workers" style="height: 32px;"/>
   </a>
-  <a href="https://vercel.com/new/clone?repository-url=https://github.com/7Sageer/sublink-worker&env=KV_REST_API_URL,KV_REST_API_TOKEN&envDescription=Vercel%20KV%20数据存储所需凭证&envLink=https://vercel.com/docs/storage/vercel-kv">
+  <a href="https://vercel.com/new/clone?repository-url=https://github.com/Jeary-Chen/sublink-worker&env=KV_REST_API_URL,KV_REST_API_TOKEN&envDescription=Vercel%20KV%20数据存储所需凭证&envLink=https://vercel.com/docs/storage/vercel-kv">
     <img src="https://vercel.com/button" alt="部署到 Vercel" style="height: 32px;"/>
   </a>
 </p>
